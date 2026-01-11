@@ -11,7 +11,7 @@ import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
 import AuthLayout from "./AuthLayout";
 import Input from "./Input";
-import select from "./select";
+import Select from "./Select";
 
 export {
   Header,
@@ -27,5 +27,5 @@ export {
   PostForm,
   AuthLayout,
   Input,
-  select,
+  Select,
 };
