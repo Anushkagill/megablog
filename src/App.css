@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+.browser-css {
+  line-height: 1.75;
+  font-size: 1.05rem;
+}
+
+.browser-css p {
+  margin-bottom: 1rem;
+}
+
